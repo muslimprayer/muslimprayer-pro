@@ -20,30 +20,20 @@ public class Response<T> {
     private T data;
 
     public Response<T> getSuccess(T data) {
-        Response<T> response = new Response<T>();
-        response.setData(data);
-        response.setCode(ResponseCode.SUCCESS);
-        return response;
-    }
-
-    public Response<T> getInvalidParam() {
-        Response<T> response = new Response<T>();
-        response.setMsg("Invalid param.");
-        response.setCode(ResponseCode.INVALID_PARAM);
-        return response;
+        this.setData(data);
+        this.setCode(ResponseCode.SUCCESS);
+        return this;
     }
 
     public Response<T> getFail() {
-        Response<T> response = new Response<T>();
-        response.setMsg("System error.");
-        response.setCode(ResponseCode.SYSTEM_ERROR);
-        return response;
+        this.setMsg("System error.");
+        this.setCode(ResponseCode.SYSTEM_ERROR);
+        return this;
     }
 
     public Response<T> getNotExistFail(String msg){
-        Response<T> response = new Response<T>();
-        response.setMsg(msg);
-        response.setCode(ResponseCode.RESOURCE_NOT_EXIST);
-        return response;
+        this.setMsg(msg);
+        this.setCode(ResponseCode.RESOURCE_NOT_EXIST);
+        return this;
     }
 }
