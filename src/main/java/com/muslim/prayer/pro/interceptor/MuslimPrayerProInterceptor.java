@@ -20,7 +20,7 @@ public class MuslimPrayerProInterceptor {
     }
 
     @Around("muslimPrayerProPointCut()")
-    public Object intercepto(ProceedingJoinPoint joinPoint) {
+    public Object interceptor(ProceedingJoinPoint joinPoint) {
         try {
             return joinPoint.proceed();
         } catch (Throwable e) {

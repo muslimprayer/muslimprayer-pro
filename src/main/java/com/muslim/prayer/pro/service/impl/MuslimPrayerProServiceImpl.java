@@ -34,8 +34,7 @@ public class MuslimPrayerProServiceImpl implements MuslimPrayerProService {
             return null;
         }
 
-        try {
-            BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file)));
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file)))) {
             String text = null;
             while ((text = reader.readLine()) != null) {
                 if (text.contains(dateFormat)) {
