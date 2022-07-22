@@ -1,0 +1,507 @@
+South Aceh Regency
+Bener Meriah Regency
+Tebing Tinggi
+Central Tapanuli Regency
+South Tapanuli Regency
+Tanjungbalai
+Simalungun Regency
+Sibolga
+Aceh Jaya Regency
+Sabang
+Pematang Siantar
+West Pasaman Regency
+Nias Regency
+Medan
+Langkat Regency
+Labuhan Batu Regency
+Karo Regency
+Bireuen Regency
+Deli Serdang Regency
+Dairi Regency
+Southeast Aceh Regency
+Banda Aceh
+Asahan Regency
+North Aceh Regency
+East Aceh Regency
+Central Aceh Regency
+Aceh Besar Regency
+West Aceh Regency
+Waropen Regency
+Wonogiri Regency
+Tuban Regency
+Wajo Regency
+Makassar
+Tulungagung Regency
+Trenggalek Regency
+North Central Timor Regency
+South Central Timor Regency
+Lumajang Regency
+Temanggung Regency
+Tegal
+Tasikmalaya
+Tapin Regency
+Bandar Lampung
+Tangerang
+Tana Toraja Regency
+Tanah Laut Regency
+Pemalang Regency
+Pekalongan
+West Sumbawa Regency
+Takalar Regency
+Tabanan Regency
+Tabalong Regency
+Surakarta
+Surabaya
+Sumedang Regency
+East Sumba Regency
+West Sumba Regency
+Sukoharjo Regency
+Sukabumi
+Banyuwangi Regency
+Sorong
+Solok
+Sintang Regency
+Sinjai Regency
+Sikka Regency
+Sidoarjo Regency
+Sidenreng Rappang Regency
+Tana Tidung Regency
+Seruyan Regency
+Buleleng Regency
+Serang
+Semarang
+Benteng
+Sawahlunto
+Sarolangun Regency
+Sangihe Islands Regency
+Sanggau Regency
+Sampang Regency
+Kulon Progo Regency
+Sambas Regency
+Samarinda
+Rembang Regency
+Rejang Lebong Regency
+Raja Ampat Regency
+Purworejo Regency
+Purwakarta Regency
+Probolinggo
+Poso Regency
+Pontianak
+Ponorogo Regency
+Polewali Mandar Regency
+Cirebon
+Pinrang Regency
+Badung Regency
+South Pesisir Regency
+Pekanbaru
+Jayawijaya Regency
+Gianyar Regency
+Payakumbuh
+Pati Regency
+Pasuruan
+Parepare
+Paniai Regency
+Pangkal Pinang
+Pangkajene and Islands Regency
+Pandeglang Regency
+Situbondo Regency
+Pamekasan Regency
+Palu City
+Palembang
+Palangka Raya
+Padang Pariaman Regency
+Padang Panjang
+Padang
+Pacitan Regency
+Ogan Komering Ulu Regency
+Ogan Komering Ilir Regency
+Nganjuk Regency
+Ngada Regency
+Musi Rawas Regency
+Musi Banyuasin Regency
+Murung Raya Regency
+Muna Regency
+Mojokerto
+Merauke Regency
+Mataram
+Maros Regency
+Manokwari Regency
+Manggarai Regency
+Manado
+Central Mamuju Regency
+Southeast Maluku Regency
+Malang
+Majene Regency
+Majalengka Regency
+Magelang
+Madiun
+East Lombok Regency
+Central Lombok Regency
+West Lombok Regency
+Lebak Regency
+North Lampung Regency
+Central Lampung Regency
+Kuningan Regency
+Kudus Regency
+East Kotawaringin Regency
+West Kotawaringin Regency
+Bogor
+Kotabaru Regency
+Kolaka Regency
+Klungkung Regency
+Klaten Regency
+Bandung
+Ketapang Regency
+Denpasar
+Kerinci Regency
+Kendari
+Kediri
+Katingan Regency
+Karawang Regency
+Kapuas Hulu Regency
+Kapuas Regency
+Jombang Regency
+Jepara Regency
+Jeneponto Regency
+Jembrana Regency
+Jember Regency
+Jayapura
+Jambi
+North Jakarta
+East Jakarta
+South Jakarta
+Central Jakarta
+West Jakarta
+Indramayu Regency
+Indragiri Hulu Regency
+Indragiri Hilir Regency
+North Hulu Sungai Regency
+Central Hulu Sungai Regency
+South Hulu Sungai Regency
+Central Halmahera Regency
+Gunung Mas Regency
+Gunung Kidul Regency
+Grobogan Regency
+Gowa Regency
+Gorontalo
+Garut Regency
+East Flores Regency
+Enrekang Regency
+Donggala Regency
+Cimahi
+Ciamis Regency
+Kendal Regency
+Buton Regency
+Buol Regency
+Bulukumba Regency
+Bukittinggi
+Brebes Regency
+Boyolali Regency
+Bone Regency
+Bolaang Mongondow Regency
+Bojonegoro Regency
+Blora Regency
+Blitar
+Bitung
+Binjai
+Bima
+Berau Regency
+North Bengkulu Regency
+South Bengkulu Regency
+Bengkulu
+Belu Regency
+Belitung Regency
+Bekasi
+Batang Hari Regency
+Batang Regency
+Barru Regency
+North Barito Regency
+East Barito Regency
+South Barito Regency
+Barito Kuala Regency
+Banyumas Regency
+Bantul Regency
+Bantaeng Regency
+Banjarmasin
+Banjarbaru
+Banjar Regency
+Bangli Regency
+Bangkalan Regency
+Bangka Regency
+Balikpapan
+Ambon
+Alor Regency
+Agam Regency
+Karanganyar Regency
+Sragen Regency
+Sleman Regency
+Kupang
+Wonosobo Regency
+Salatiga
+Kebumen Regency
+Banjarnegara Regency
+Purbalingga Regency
+Cilacap Regency
+Magetan Regency
+Ngawi Regency
+Subang Regency
+Cianjur Regency
+West Bandung Regency
+Thousand Islands
+Fakfak Regency
+South Minahasa Regency
+Aceh Tamiang Regency
+Southwest Aceh Regency
+Nagan Raya Regency
+Simeulue Regency
+Aceh Singkil Regency
+Serdang Bedagai Regency
+Lhokseumawe
+Rokan Hulu Regency
+Kampar Regency
+Pakpak Bharat Regency
+North Tapanuli Regency
+Soppeng Regency
+Minahasa Regency
+North Minahasa Regency
+Selayar Islands Regency
+Demak Regency
+South Tangerang City
+Depok
+Tomohon
+Cilegon City
+Serang City
+Batu
+Gresik Regency
+Lamongan Regency
+Kebomas
+Bondowoso Regency
+Sigi Regency
+Konawe Regency
+Southeast Minahasa Regency
+Parigi Moutong Regency
+Tojo Una-Una Regency
+North Buton Regency
+East Kolaka Regency
+Banggai Regency
+Sitaro Islands Regency
+Pohuwato Regency
+East Luwu Regency
+Luwu Regency
+North Morowali Regency
+South Konawe Regency
+North Konawe Regency
+Toli-Toli Regency
+Bone Bolango Regency
+North Bolaang Mongondow Regency
+Bombana Regency
+Bau-Bau
+North Gorontalo Regency
+Morowali Regency
+Wakatobi Regency
+Konawe Islands Regency
+Banggai Laut Regency
+South Bolaang Mongondow Regency
+Kotamobagu
+East Bolaang Mongondow Regency
+North Kolaka Regency
+Karangasem Regency
+Dompu Regency
+West Manggarai Regency
+East Manggarai Regency
+Mamasa Regency
+Nagekeo Regency
+Bulubulu
+Ende Regency
+Palopo
+Boalemo Regency
+North Luwu Regency
+Sumbawa Regency
+North Toraja Regency
+Southwest Sumba Regency
+Humbang Hasundutan Regency
+North Lombok Regency
+Central Sumba Regency
+Biak Numfor Regency
+Supiori Regency
+Pringsewu Regency
+East Lampung Regency
+Metro
+South Lampung Regency
+Pesawaran Regency
+Tanggamus Regency
+Samosir Regency
+Toba Samosir Regency
+West Lampung Regency
+West Pesisir Regency
+Bungo Regency
+Kaimana Regency
+Teluk Wondama Regency
+Sorong Selatan Regency
+South Halmahera Regency
+Ternate City
+Nabire Regency
+Pegunungan Bintang Regency
+Pagar Alam
+Prabumulih
+Pangandaran Regency
+Banjar
+Langsa
+Gayo Lues Regency
+Pidie Regency
+South Nias Regency
+Muara Enim Regency
+South Ogan Komering Ulu Regency
+East Ogan Komering Ulu Regency
+Kaur Regency
+Way Kanan Regency
+Sumenep Regency
+Sabu Raijua Regency
+Rote Ndao Regency
+Malaka Regency
+Lembata Regency
+Bontang
+East Kutai Regency
+Kutai Kartanegara Regency
+Sungai Penuh
+Merangin Regency
+Mukomuko Regency
+Tebo Regency
+Dharmasraya Regency
+South Solok Regency
+Mentawai Islands Regency
+Lebong Regency
+North Musi Rawas Regency
+Muaro Jambi Regency
+Lahat Regency
+Central Bengkulu Regency
+Seluma Regency
+Kepahiang Regency
+Empat Lawang Regency
+Banyuasin Regency
+Ogan Ilir Regency
+Sarmi Regency
+Keerom Regency
+West Tulang Bawang Regency
+Sijunjung Regency
+Mesuji Regency
+Tulang Bawang Regency
+Lima Puluh Kota Regency
+Pelalawan Regency
+Kuantan Singingi Regency
+Tanah Datar Regency
+West Tanjung Jabung Regency
+Pidie Jaya Regency
+Subulussalam
+Siak Regency
+Kepulauan Meranti Regency
+Karimun Regency
+Bengkalis Regency
+Rokan Hilir Regency
+Dumai
+North Padang Lawas Regency
+South Labuhan Batu Regency
+Padang Lawas Regency
+Bulungan Regency
+Malinau Regency
+Tarakan
+Nunukan Regency
+Pasaman Regency
+Mandailing Natal Regency
+Muara
+Tanah Bumbu Regency
+Lingga Regency
+Landak Regency
+Bengkayang Regency
+Natuna Regency
+Anambas Islands Regency
+Pulang Pisau Regency
+Bintan Regency
+Balangan Regency
+Aru Islands
+West Halmahera Regency
+Mappi Regency
+Asmat Regency
+North Penajam Paser Regency
+North Halmahera Regency
+Central Maluku Regency
+West Seram Regency
+Lamandau Regency
+Buru Regency
+East Halmahera Regency
+East Seram Regency
+Boven Digoel Regency
+Teluk Bintuni Regency
+Sekadau Regency
+Sukamara Regency
+Sula Islands Regency
+Kepulauan Yapen Regency
+Mimika Regency
+Puncak Jaya Regency
+South Bangka Regency
+Central Bangka Regency
+West Bangka Regency
+East Belitung Regency
+Batubara Regency
+North Labuhan Batu Regency
+Deiyai Regency
+Dogiyai Regency
+Penukal Abab Lematang Ilir Regency
+Taliabu Island Regency
+North Kayong Regency
+Talaud Islands Regency
+Kubu Raya Regency
+West Kutai Regency
+Lanny Jaya Regency
+Lubuklinggau
+Southwest Maluku Regency
+Western Southeast Maluku Regency
+Mamberamo Raya Regency
+Pasangkayu Regency
+Maybrat Regency
+Melawi Regency
+Nduga Regency
+West Nias Regency
+North Nias Regency
+Padang Sidempuan
+Pariaman
+Paser Regency
+Morotai Island Regency
+Singkawang
+Sorong City
+Tambrauw Regency
+East Tanjung Jabung Regency
+Tidore
+Tolikara Regency
+Tual
+Yahukimo Regency
+Yalimo Regency
+Gunungsitoli
+Intan Jaya Regency
+Puncak Regency
+Mahakam Ulu Regency
+Tangerang City
+Batam
+Tanjung Pinang
+Daik Lingga
+Kijang
+Sungai Raya
+Tarempa
+Con Son
+Geser
+Jeneponto
+Galesong
+Sukabumi Regency
+Enemawira
+Tamako
+Davao Occidental
+Essang
+Province of Davao Oriental
+Rumbia
+South Buru Regency
+Langgur
+Bosnik
+Doom
+Kabare
+Waigama
+Lontar
