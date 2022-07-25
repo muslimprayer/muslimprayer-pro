@@ -18,8 +18,8 @@ import java.io.InputStreamReader;
 import java.net.URL;
 
 /**
- * @author : pinghongju 1460
- * @description : [描述说明该类的功能]
+ * @author : pinghongju
+ * @description : get prayer time test
  * @date : 2022/7/21 10:50
  */
 @SpringBootTest
@@ -32,6 +32,7 @@ public class MuslimPrayerProAppTest {
     @Test
     public void getPrayerTimeByCity() {
         try {
+          //  muslimPrayerProApp.getPrayerTime("test");
             URL url = this.getClass().getClassLoader().getResource("muslim_ID_city_name.txt");
             File file = new File(url.getPath());
             BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file)));

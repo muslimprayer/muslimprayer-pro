@@ -5,6 +5,11 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * @author : pinghongju
+ * @description : prayer time
+ * @date : 2022/7/20 16:54
+ */
 @Data
 @Builder
 @NoArgsConstructor

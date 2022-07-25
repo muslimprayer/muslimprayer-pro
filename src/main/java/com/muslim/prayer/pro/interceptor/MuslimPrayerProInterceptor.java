@@ -1,6 +1,5 @@
 package com.muslim.prayer.pro.interceptor;
 
-import com.muslim.prayer.pro.dto.PrayerTime;
 import com.muslim.prayer.pro.dto.Response;
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.ProceedingJoinPoint;
@@ -10,7 +9,7 @@ import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.stereotype.Component;
 
 /**
- * @author :XXX
+ * @author :pinghongju
  * @description : Muslim Prayer ProInterceptor
  * @date : 2022/7/20 17:10
  */

@@ -1,7 +1,7 @@
 package com.muslim.prayer.pro.constants;
 
 /**
- * @author : XXX
+ * @author : pinghongju
  * @description : Calculation Method Constant
  * @date : 2022/7/20 10:45
  */

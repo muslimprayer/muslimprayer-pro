@@ -7,14 +7,14 @@ import com.muslim.prayer.pro.dto.PrayerTime;
 import java.util.TimeZone;
 
 /**
- * @author : XXXX
+ * @author : pinghongju
  * @description : query muslim prayer time
  * @date : 2022/7/19 15:16
  */
 public interface MuslimPrayerProService {
     String DEFAULT_CALCULATIONMETHOD = CalculationMethod.MWL;
 
-    String PARENT_PATH = "/prayer-time/";
+    String PARENT_PATH = "prayer-time";
 
     /**
      * get prayer time,just support indonesia country

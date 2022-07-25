@@ -10,7 +10,7 @@ import java.util.Date;
 import java.util.TimeZone;
 
 /**
- * @author : XXXX
+ * @author : pinghongju
  * @description : query muslim prayer time
  * @date : 2022/7/19 15:16
  */

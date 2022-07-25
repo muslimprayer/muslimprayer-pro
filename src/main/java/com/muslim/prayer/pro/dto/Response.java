@@ -3,17 +3,18 @@ package com.muslim.prayer.pro.dto;
 import com.muslim.prayer.pro.constants.ResponseCode;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
+import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @author : XXX
- * @description : XXX
+ * @author : pinghongju
+ * @description : response
  * @date : 2022/7/20 16:54
  */
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@lombok.Data
+@Data
 public class Response<T> {
     private int code;
     private String msg;

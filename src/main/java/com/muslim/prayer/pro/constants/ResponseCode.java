@@ -1,7 +1,7 @@
 package com.muslim.prayer.pro.constants;
 
 /**
- * @author : XXXX
+ * @author : pinghongju
  * @description : response code
  * @date : 2022/7/20 17:50
  */
