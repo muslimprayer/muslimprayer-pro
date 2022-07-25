@@ -13,7 +13,7 @@ import java.util.Date;
 import java.util.TimeZone;
 
 /**
- * @author : XXXX
+ * @author : pinghongju
  * @description : get muslim prayer time
  * @date : 2022/7/19 15:18
  */
@@ -27,12 +27,13 @@ public class MuslimPrayerProServiceImpl implements MuslimPrayerProService {
         format.setTimeZone(timeZone);
         String dateFormat = format.format(date);
 
-        URL url = this.getClass().getClassLoader().getResource("prayer-time");
+        URL url = this.getClass().getClassLoader().getResource(PARENT_PATH);
         String path = url.getPath() + File.separator + city.replaceAll(" ", "") + File.separator + calculationMethod + ".txt";
         File file = new File(path);
         if (!file.exists()) {
             return null;
         }
+
 
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(file)))) {
             String text = null;
